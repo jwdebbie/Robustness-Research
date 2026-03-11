@@ -21,7 +21,7 @@ CCTV·보안 카메라 영상처럼 **통제되지 않은 환경**에서 칼을 
 ## 파일 구조
 
 ```
-01_Robust_Perception_Analysis/
+Robustness-Research/
 ├── Dataset_preparation.py   # 영상에서 칼 이미지 자동 추출 (YOLOv8)
 ├── Vgg16.py                 # VGG16 전이학습 + 조건별 정확도 분석
 ├── Resnet50.py              # ResNet50 전이학습 + 조건별 정확도 분석
